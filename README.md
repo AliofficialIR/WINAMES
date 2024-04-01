@@ -1,4 +1,4 @@
-# WINAMES
+# WINAMES👾
 A Python tool based on network penetration testing that will crack the Wi-Fi around you. A tool with relatively high power coded by Iranian hackers.🦂⌨
 <hr>
 <img src="https://github.com/AliofficialIR/WINAMES/blob/main/Screenshot%202024-04-01%20203005.png" style="width: 60%;">
@@ -23,6 +23,10 @@ A Python tool based on network penetration testing that will crack the Wi-Fi aro
 <br>
 <pre>$cd WINAMES</pre>
 <br>
+<pre>$ls</pre>
+<br>
+<pre>$cd wifi py</pre>
+<br>
 <pre>$pip install -r requirements.txt</pre>
 <br>
 <pre>$python WINAMES.py</pre>
@@ -42,6 +46,10 @@ A Python tool based on network penetration testing that will crack the Wi-Fi aro
 <br>
 <pre>$cd WINAMES</pre>
 <br>
+<pre>$ls</pre>
+<br>
+<pre>$cd wifi py</pre>
+<br>
 <pre>$sudo pip install -r requirements.txt</pre>
 <br>
 <pre>$python WINAMES.py</pre>
@@ -60,6 +68,10 @@ A Python tool based on network penetration testing that will crack the Wi-Fi aro
 <pre>$ls</pre>
 <br>
 <pre>$cd WINAMES</pre>
+<br>
+<pre>$ls</pre>
+<br>
+<pre>$cd wifi py</pre>
 <br>
 <pre>$pip install -r requirements.txt</pre>
 <br>
